@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1601425808 source:e:\desktop\projetoestrutura\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"projetofinal.h"
+
+1601433115 e:\desktop\projetoestrutura\projetofinal.h
+
+1601433136 source:e:\desktop\projetoestrutura\projetofinal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"projetofinal.h"
+
